@@ -11,3 +11,5 @@ A o modelo hibrido possui ambos os beneficios, dando muita flexibilildade para a
 Existem 2 tipos de gastos em computação em nuvem, CapEx e OpEx.
 CapEx é o gasto inicial de infraestrutura, gasto esse que é alto no inicio e some com o tempo.
 OpEx é um gasto operacional que vem conforme o uso e é cobrado de mês em mês.
+
+O Microsoft Azure é a plataforma de computação em nuvem da Microsoft que seria o serviço oferecido pela nuvem pública, oferecendo uma ampla gama de serviços, como hospedagem de aplicativos, armazenamento, banco de dados, inteligência artificial e redes. Esses recursos são fornecidos pela internet, sob demanda, com pagamento conforme o uso.
